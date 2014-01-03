@@ -24,3 +24,4 @@
 
 * Unclassified
   - [jQuery vs Dojo vs Prototype vs YUI vs MooTools vs ...](http://stackoverflow.com/q/394601/1310070)
+  - [What is the difference between Zepto and jQuery 2?](http://stackoverflow.com/q/14830334/1310070)
