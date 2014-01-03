@@ -11,6 +11,8 @@
   - [Differences between JSON and JavaScript object ?](http://stackoverflow.com/q/3975859/1310070)
   - [How to find out which DOM element has the focus ?](http://stackoverflow.com/q/497094/1310070)
   - [Difference between escape, encodeURI and encodeURIComponent](http://stackoverflow.com/q/75980/1310070)
+  - [Creating new object from frozen object using Object.create](http://stackoverflow.com/q/19698533/1310070)
+  - [Most efficient way to clone a javascript object](http://stackoverflow.com/q/122102/1310070)
 
 * jQuery
   - [jQuery Tips and Tricks](http://stackoverflow.com/q/182630/1310070)
