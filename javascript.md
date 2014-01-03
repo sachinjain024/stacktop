@@ -23,6 +23,7 @@
   - [Force Backbone *fetch* to use *HTTP POST*](http://stackoverflow.com/questions/15349949/1310070)
   - [How to generate model id's in backbone](http://stackoverflow.com/a/10793664/1310070)
   - [Use of classname,id,attributes in Backbone View](http://stackoverflow.com/q/16172671/1310070)
+  - [Ways to save Backbone model data](http://stackoverflow.com/q/9816274/1310070)
 
 * Unclassified
   - [jQuery vs Dojo vs Prototype vs YUI vs MooTools vs ...](http://stackoverflow.com/q/394601/1310070)
