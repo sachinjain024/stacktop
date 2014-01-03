@@ -10,6 +10,7 @@
   - [Hidden features of javascript](http://stackoverflow.com/questions/61088/hidden-features-of-javascript)
   - [Differences between JSON and JavaScript object ?](http://stackoverflow.com/q/3975859/1310070)
   - [How to find out which DOM element has the focus ?](http://stackoverflow.com/q/497094/1310070)
+  - [Difference between escape, encodeURI and encodeURIComponent](http://stackoverflow.com/q/75980/1310070)
 
 * jQuery
   - [jQuery Tips and Tricks](http://stackoverflow.com/q/182630/1310070)
@@ -19,6 +20,7 @@
 * Backbone
   - [Force Backbone *fetch* to use *HTTP POST*](http://stackoverflow.com/questions/15349949/1310070)
   - [How to generate model id's in backbone](http://stackoverflow.com/a/10793664/1310070)
+  - [Use of classname,id,attributes in Backbone View](http://stackoverflow.com/q/16172671/1310070)
 
 * Unclassified
   - [jQuery vs Dojo vs Prototype vs YUI vs MooTools vs ...](http://stackoverflow.com/q/394601/1310070)
