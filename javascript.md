@@ -19,6 +19,7 @@
   - [jQuery Tips and Tricks](http://stackoverflow.com/q/182630/1310070)
   - [Difference between event.preventDefault() and return false](http://stackoverflow.com/q/1357118/1310070)
   - [Test if an element is hidden using jQuery](http://stackoverflow.com/q/178325/1310070)
+  - [Get Selected value of dropdown using jQuery](http://stackoverflow.com/q/2780566/1310070)
 
 * Backbone
   - [Force Backbone *fetch* to use *HTTP POST*](http://stackoverflow.com/questions/15349949/1310070)
