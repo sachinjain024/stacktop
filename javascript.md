@@ -21,6 +21,7 @@
   - [Test if an element is hidden using jQuery](http://stackoverflow.com/q/178325/1310070)
   - [Get Selected value of dropdown using jQuery](http://stackoverflow.com/q/2780566/1310070)
   - [Difference between contentType and dataType in jQuery Ajax](http://stackoverflow.com/q/14322984/1310070)
+  - [Change input type from jQuery](http://stackoverflow.com/q/1544317/1310070)
 
 * Backbone
   - [Force Backbone *fetch* to use *HTTP POST*](http://stackoverflow.com/questions/15349949/1310070)
