@@ -14,6 +14,7 @@
   - [Difference between escape, encodeURI and encodeURIComponent](http://stackoverflow.com/q/75980/1310070)
   - [Creating new object from frozen object using Object.create](http://stackoverflow.com/q/19698533/1310070)
   - [Most efficient way to clone a javascript object](http://stackoverflow.com/q/122102/1310070)
+  - [Why both “Object instanceof Function” and “Function instanceof Object” return true?](http://stackoverflow.com/questions/23622695/why-in-javascript-both-object-instanceof-function-and-function-instanceof-obj/23623598#23623598)
 
 * jQuery
   - [jQuery Tips and Tricks](http://stackoverflow.com/q/182630/1310070)
