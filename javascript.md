@@ -15,6 +15,8 @@
   - [Creating new object from frozen object using Object.create](http://stackoverflow.com/q/19698533/1310070)
   - [Most efficient way to clone a javascript object](http://stackoverflow.com/q/122102/1310070)
   - [Why both “Object instanceof Function” and “Function instanceof Object” return true?](http://stackoverflow.com/questions/23622695/why-in-javascript-both-object-instanceof-function-and-function-instanceof-obj/23623598#23623598)
+  - [Why Parsing a very large number to Integer returns 1](http://stackoverflow.com/questions/29761837/why-parsing-a-very-large-number-to-integer-return-1)
+
 
 * jQuery
   - [jQuery Tips and Tricks](http://stackoverflow.com/q/182630/1310070)
